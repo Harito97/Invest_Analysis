@@ -1,0 +1,34 @@
+Column Descriptions:
+Date: Trading date
+Open: Opening price
+High: Highest price
+Low: Lowest price
+Close: Closing price
+Adj Close: Adjusted closing price
+Volume: Trading volume
+
+Max and Min Values for Each Column:
+Open:
+  Max: 17.139999389648438
+  Min: -0.1080000028014183
+
+High:
+  Max: 17.139999389648438
+  Min: -0.10000000149011612
+
+Low:
+  Max: 17.139999389648438
+  Min: -0.23499999940395355
+
+Close:
+  Max: 17.139999389648438
+  Min: -0.10499999672174454
+
+Adj Close:
+  Max: 17.139999389648438
+  Min: -0.10499999672174454
+
+Volume:
+  Max: 159700.0
+  Min: 0.0
+
